@@ -7,5 +7,5 @@ Petersen T, Valdenaire PL, Pellenq R, Ulm FJ (2018) A reaction model for cement 
 The goal of the phase-field is to compute the microstructure evolution with the precipitation/dissolution. An Allen-Cahn formulation is used coupled with a solute generation and diffusion. Hence, the conservation of the mass should be verified as precipitation/dissolution occurs.
 
 # Publication
-The details of this work are available in the following paper.
-TBA
+The details of this work are available in the following paper. <br>
+Sac-Morane A, Ioannidou K, Veveakis M, Rattez H (2026) Predicting microstructure and mechanical properties during alite (C3S) hydration using a Phase-Field model. Construction and Building Materials 521:145946. https://doi.org/10.1016/j.conbuildmat.2026.145946
